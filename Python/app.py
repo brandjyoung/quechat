@@ -1,3 +1,4 @@
+#Brandon added this change on Jul 24 2024 around midnight yay him
 from flash import Flask, render_template, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
